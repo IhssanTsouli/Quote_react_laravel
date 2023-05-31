@@ -86,10 +86,6 @@ function App() {
      })
     }
 
-
-
-  
-  
   return (
     <div>
     
@@ -111,11 +107,7 @@ function App() {
                     </div>
                 </div>
             </nav>
-
-
-
-
-            
+ 
             <div className="App">
          <div className="quote">
             <h2>{quote}</h2>
